@@ -1,3 +1,2 @@
-# he-llo
-im vishant bothra
+I'm Vishant Bothra
 an aspiring coder
